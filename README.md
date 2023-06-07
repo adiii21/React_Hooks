@@ -1,2 +1,2 @@
-# React_Hooks
-Created with CodeSandbox
+# React-Hooks
+These are the few basic react hook which are commonly used.
